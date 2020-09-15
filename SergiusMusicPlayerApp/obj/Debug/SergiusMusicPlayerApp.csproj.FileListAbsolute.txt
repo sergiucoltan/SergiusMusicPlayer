@@ -1,0 +1,17 @@
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\bin\Debug\SergiusMusicPlayerApp.exe.config
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\bin\Debug\SergiusMusicPlayerApp.exe
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\bin\Debug\SergiusMusicPlayerApp.pdb
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\obj\Debug\SergiusMusicPlayerApp.csprojAssemblyReference.cache
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\obj\Debug\SergiusMusicPlayerApp.csproj.ResolveComReference.cache
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\obj\Debug\SergiusMusicPlayerApp.SergiusMusicPlayerApp.resources
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\obj\Debug\SergiusMusicPlayerApp.Properties.Resources.resources
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\obj\Debug\SergiusMusicPlayerApp.csproj.GenerateResource.cache
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\obj\Debug\SergiusMusicPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\obj\Debug\SergiusMusicPlayerApp.exe
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\obj\Debug\SergiusMusicPlayerApp.pdb
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\bin\Debug\DragAssembly.dll
+C:\Users\Sergiu\Desktop\Proiecte Sergiu C#\SergiusMusicPlayerApp\SergiusMusicPlayerApp\obj\Debug\SergiusMusicPlayerApp.csproj.CopyComplete
